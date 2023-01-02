@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Biogas Western Greece
+        Biogas Western Greece @2022
       </footer>
     </>
   )

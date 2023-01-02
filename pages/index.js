@@ -12,7 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Βιοαέριο Δυτικής Ελλάδας" />
-        <div> Επικοινωνία: vioaerioditikiselladas@gmail.com </div>
+        <address> Επικοινωνία: <a href="mailto:vioaerioditikiselladas@gmail.com"> vioaerioditikiselladas@gmail.com </a> </address>
+  
       </main>
 
       <Footer />
